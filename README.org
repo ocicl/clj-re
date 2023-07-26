@@ -1,0 +1,10 @@
+* clj-re
+
+Clojure style regular expression functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dtenny/clj-re.git   |
+| commit  | {"messa  |
+| systems | clj-re |
+|---------+-------------------------------------------|
+
