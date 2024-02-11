@@ -2,9 +2,8 @@
 
 Clojure style regular expression functions
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/dtenny/clj-re.git   |
-| commit  | cc213bf  |
-| systems | clj-re |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://github.com/dtenny/clj-re.git |
+| commit  | 56390e4                                  |
+| systems | clj-re                                   |
+|---------+------------------------------------------|
